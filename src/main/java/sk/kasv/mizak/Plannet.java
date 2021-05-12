@@ -8,7 +8,7 @@ public class Plannet {
     public Plannet(String name, Long distance) {
         this.name = name;
         this.distance = distance;
-        System.out.println("Plannet "+name+" is "+distance+" away from Sun.");
+        System.out.println("Plannet "+name+" is " +distance+" away from Sun.");
     }
 
     public String getName() {
