@@ -18,7 +18,9 @@ public class Main {
         sun.addToArray(uran);
         sun.addToArray(saturn);
         sun.addToArray(earth);
-        sun.addToArray(mars );
-        sun.getArray();
+        sun.addToArray(mars);
+       // sun.getArray();
+
+        sun.findByPattern();
     }
 }
